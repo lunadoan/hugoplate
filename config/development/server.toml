@@ -16,3 +16,4 @@ status = 404
 [[redirects]]
 from = '/'
 to = '/blog/'
+status = 301  # Using 301 for permanent redirect
