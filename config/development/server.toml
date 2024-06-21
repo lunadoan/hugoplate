@@ -11,6 +11,7 @@
 from = '/'
 to = '/blog/'
 status = 301  # Using 301 for permanent redirect
+force = true
 
 # Default language must be last.
 [[redirects]]
