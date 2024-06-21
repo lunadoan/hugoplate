@@ -11,3 +11,10 @@
 from = '/**'
 to = '/en/404.html'
 status = 404
+
+# Default home page to blog posts
+[[redirects]]
+from = "/*"
+to = "/blog/:splat"
+status = 301  # Using 301 for permanent redirect
+force = true
