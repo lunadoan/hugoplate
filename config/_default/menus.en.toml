@@ -9,21 +9,22 @@
 [[main]]
 name = "About"
 pageRef = "/about"
-weight = 2
+weight = 3
 
 # [[main]]
 # name = "Elements"
 # pageRef = "/elements"
 # weight = 3
 
-[[main]]
-weight = 1
-name = "Blog" # change name from Pages to Blog
+# [[main]]
+# weight = 1
+# name = "Blog" 
 
 [[main]]
-parent = "Blog"
+# parent = "Blog"
 name = "Blog posts"
 pageRef = "/blog"
+weight = 1
 
 # [[main]]
 # parent = "Pages"
@@ -36,9 +37,10 @@ pageRef = "/blog"
 # pageRef = "/authors"
 
 [[main]]
-parent = "Blog"
+# parent = "Blog"
 name = "Categories"
 pageRef = "/categories"
+weight = 2
 
 # [[main]]
 # parent = "Pages"
