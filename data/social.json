@@ -1,14 +1,9 @@
 {
   "main": [
     {
-      "name": "medium",
-      "icon": "fab fa-medium",
-      "link": "https://www.medium.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/lunadoan/"
     },
     {
       "name": "github",
@@ -16,9 +11,9 @@
       "link": "https://github.com/lunadoan"
     },
     {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/in/lunadoan/"
+      "name": "medium",
+      "icon": "fab fa-medium",
+      "link": "https://medium.com/@lunadoan"
     }
   ]
 }
