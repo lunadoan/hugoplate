@@ -105,11 +105,11 @@ map_marker = "images/marker.png"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://lulydecor.us7.list-manage.com/subscribe/post?u=ad048b2d10acbadcfbd6646be&amp;id=98644b0bf2&amp;f_id=00818ee4f0" # replace this url with yours
 mailchimp_form_name = "mc-embedded-subscribe-form"
 
 # Mailerlite subscription
-# [[params.newsletter_groups]]
-# id = "61323595657250046"
+[[params.newsletter_groups]]
+id = "61323595657250046"
