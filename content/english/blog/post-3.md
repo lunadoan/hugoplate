@@ -54,7 +54,7 @@ For user engagement, I'd like to know:
 - Number of sessions that the users use the social function
 - Number of posts, messages, comments, reactions per user
 
-I can go with number of sessions for simplicity, and go deeper and even break down to cohorts if I see a conflict between the results and my hypothesis.
+I can go with number of sessions for simplicity, and go deeper and even break down to cohorts if I see a conflict among metrics or between the results and my hypothesis.
 
 ### 2.3 Guardrail metrics
 Guardrail metrics, aka countermetrics, complete the picture of the feature impact. The whole purpose of these metrics is to make sure we don't create any unintended experience for our users. 
