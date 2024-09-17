@@ -63,7 +63,7 @@ I'd like to evaluate:
 - user engagement with other experience - do they watch training sessions less (and socialize more)?
 - number of reports on inappropriate content/messages
 
-I might want to track our customer service calls as well, as our users might feel confused or ouraged about the new experience and need to call.
+I might want to track our customer service calls as well, as our users might feel confused or outraged about the new experience and need to call.
 
 ## Wrap up with a data-driven case
 So, I have a measurement plan for the feature launch. After gathering the data and conducting the analysis, I now have a data-driven case for my business partners, helping them make an informed decision.
