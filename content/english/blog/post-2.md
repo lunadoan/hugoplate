@@ -1,23 +1,24 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Causal Inference Case Study in Tech with Solution (Part 1)"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+description: "causal inference case studies in product development"
+date: 2024-09-14T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
-author: "Sam Wilson"
-tags: ["technology", "tailwind"]
-draft: false
+categories: ["Product Development", "Causal Inference", "Case Studies"]
+author: "Luna Doan"
+tags: ["ab testing"]
+draft: true
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+If you are interested in data analytics in product world, you must have heard about A/B testing. This is a gold standard in the product development. But when you don't have any experience (yes A/B tesing isn't taught in depth in school, and unfortunately A/B testing courses at the practical level are sold at hefty prices), it's hard to internalize the concept. The best way to learn about A/B testing is doing case studies. 
+<br>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The purpose of this post is to provide real-world cases (I took them from 1001  posts from tech blogs, like Netflix, Spotify, Uber). The framework is a combination of *what I learn from work experience* and *from those tech blogs*. (Thanks to all authors out there who put the time and effort in maintaining those blogs!)
 
-## Creative Design
+Without further ado, let's dive in!
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## Case Problem - Netflix Payment
+Netflix believes payment should not be the barrier of 
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
