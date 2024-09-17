@@ -2,7 +2,7 @@
 title: "How to Design Success Metrics for a Feature Launch?"
 meta_title: ""
 description: "Measure success of a feature launch"
-date: 2024-09-14T05:00:00Z
+date: 2024-09-17T05:00:00Z
 image: "assets/images/post1-define-success-metric.png"
 categories: ["Measurement", "Product Development"]
 author: "Luna Doan"
