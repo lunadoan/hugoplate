@@ -12,7 +12,7 @@ draft: false
 
 How would you measure a launch success?
 
-In this post, I'll borrow a question case from Dawn Choo.
+In this article, I'll borrow a question case from a Linkedin post.
 
 **Question**: Our fitness app recently introduced a social feature, where you can add friends and share workout achievements. How would you measure the success of the feature? 
 
