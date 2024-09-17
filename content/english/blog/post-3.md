@@ -16,8 +16,6 @@ In this article, I'll borrow a question case from a Linkedin post.
 
 **Question**: Our fitness app recently introduced a social feature, where you can add friends and share workout achievements. How would you measure the success of the feature? 
 
-*(I change the question a bit, to focus more on metric definition rather than experiment design)*
-
 My approach will be rooted on the data-driven case for decision making. Without further ado, let's dive in!
 
 ## 1. Start with a hypothesis
