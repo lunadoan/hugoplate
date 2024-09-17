@@ -16,9 +16,9 @@ In this post, I'll borrow a question case from Dawn Choo.
 
 **Question**: Our fitness app recently introduced a social feature, where you can add friends and share workout achievements. How would you measure the success of the feature? 
 
-(I change the question a bit, to focus more on metric definition rather than experiment design)
+*(I change the question a bit, to focus more on metric definition rather than experiment design)*
 
-My approach will be rooted on the data-driven case for decision making process. Without further ado, let's dive in!
+My approach will be rooted on the data-driven case for decision making. Without further ado, let's dive in!
 
 ## 1. Start with a hypothesis
 I always start off any analysis with a *hypothesis*. An user-centric plain English sentence of what the feature does to the users.
@@ -29,7 +29,9 @@ My hypothesis then would be:
 
 > The social feature makes our users motivated and come to us daily to stay fit.
 
+{{< notice "tip" >}}
 Writing hypothesis this way helps clear my mind before I jump into any outcome metrics, making sure I have a well-rounded measurement plan. The plain English also make it approachable to anyone.
+{{< /notice >}}
 
 ## 2. Define success metrics
 Recall the hypothesis:
@@ -70,7 +72,7 @@ So, I have a measurement plan for the feature launch. After gathering the data a
 2) Is the movement aligned with other metrics, making it a reliable signal that we do see impact on retention?
 3) Do we see any unintended impact, aka do we f*ck up?
 
-These insights will help my engineering and product team decide whether or not they want to roll out the feature / deprecate it to focus on other works.
+> These insights will help my engineering and product team decide whether or not they want to roll out the feature / deprecate it to focus on other works.
 
 Hope you enjoy this post! 
 
