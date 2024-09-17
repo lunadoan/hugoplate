@@ -69,7 +69,7 @@ I might want to track our customer service calls as well, as our users might fee
 So, I have a measurement plan for the feature launch. After gathering the data and conducting the analysis, I now have a data-driven case for my business partners, helping them make an informed decision.
 
 1) Do we see user retention move?
-2) Is the movement aligned with other metrics, making it a reliable signal that we do see impact on retention?
+2) Is the movement aligned with other metrics, making it a reliable insight that we do see impact on retention?
 3) Do we see any unintended impact, aka do we f*ck up?
 
 > These insights will help my engineering and product team decide whether or not they want to roll out the feature / deprecate it to focus on other works.
