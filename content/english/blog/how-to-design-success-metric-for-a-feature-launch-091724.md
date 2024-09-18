@@ -71,7 +71,7 @@ So, I have a measurement plan for the feature launch. After gathering the data a
 3) Do we see any unintended impact, aka do we f*ck up?
 
 {{< notice "tip" >}}
-These insights will help my engineering and product team decide whether or not they want to roll out the feature / deprecate it to focus on other works.
+These insights will help engineering and product team decide whether or not they want to roll out the feature / deprecate it to focus on other works.
 {{< /notice >}}
 
 Hope you enjoy this post! 
