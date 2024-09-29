@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/lunadoan/
 ---
 
-**Product Analytics Lead | Strategy & Analytics**
+**Data Scientist | Product & Data**
 <br>
-I break down complex problem and solve with data
+I solve product problems with data
 
